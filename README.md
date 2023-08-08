@@ -1,5 +1,5 @@
 # Converto
-Batch Export Svg to Png on linux babe! (should work on every distro where inkscape is supported)
+Batch Export Svg to Png on linux (should work on every distro where inkscape is supported)
 
 # Requirements
 you need to have installed inkscape version 1.0.0 or above for this script to work. https://inkscape.org/release/inkscape-1.1.1/. Install your linux version and, very important: **YOU NEED TO INSTALL THE FULL VERSION, NOT THE MINIMAL!**
